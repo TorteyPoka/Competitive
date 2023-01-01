@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "a:/codeCorner/Competitive/CodeForces",
-      "program": "a:/codeCorner/Competitive/CodeForces/build/Debug/outDebug",
+      "cwd": "a:/codeCorner/Competitive/CodeForces/Algorithms/Greedy",
+      "program": "a:/codeCorner/Competitive/CodeForces/Algorithms/Greedy/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
